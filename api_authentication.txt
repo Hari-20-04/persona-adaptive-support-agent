@@ -1,0 +1,4 @@
+API authentication requires a valid Bearer token.
+Unauthorized requests return HTTP 401 errors.
+Expired tokens must be regenerated from the developer dashboard.
+All API requests must include the Authorization header.

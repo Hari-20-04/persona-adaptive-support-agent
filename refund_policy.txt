@@ -1,0 +1,3 @@
+Refund requests are reviewed within 5 business days.
+Refund eligibility depends on the subscription plan.
+Processing times vary based on the payment provider.

@@ -1,0 +1,3 @@
+Subscriptions can be cancelled at any time from account settings.
+Cancellation prevents future billing cycles.
+Current subscription benefits remain active until the billing period ends.

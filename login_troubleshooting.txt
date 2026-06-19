@@ -1,0 +1,3 @@
+Users should verify their username and password.
+Browser cache and cookies may cause login issues.
+Clearing browser data and retrying often resolves login problems.

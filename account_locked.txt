@@ -1,0 +1,3 @@
+Accounts may be locked after multiple failed login attempts.
+Users should wait 30 minutes before trying again.
+Support can verify account ownership and unlock accounts if necessary.

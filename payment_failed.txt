@@ -1,0 +1,3 @@
+Payment failures may occur due to insufficient balance, expired cards, or network issues.
+Users should verify payment details and try again.
+Contact support if the issue persists.

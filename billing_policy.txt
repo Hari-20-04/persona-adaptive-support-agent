@@ -1,0 +1,4 @@
+Invoices are generated monthly.
+Duplicate charges should be reported immediately.
+Billing disputes are reviewed within 5 business days.
+Customers can contact support for invoice corrections.
