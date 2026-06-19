@@ -1,9 +1,9 @@
 import streamlit as st
 
-from src.classifier import classify_persona
-from src.rag_pipeline import create_vector_store, retrieve
-from src.generator import generate_response
-from src.escalator import should_escalate, create_handoff
+from classifier import classify_persona
+from rag_pipeline import create_vector_store, retrieve
+from generator import generate_response
+from escalator import should_escalate, create_handoff
 
 st.set_page_config(page_title="Persona Support Agent")
 
