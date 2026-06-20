@@ -7,7 +7,7 @@ import os
 
 load_dotenv()
 
-def load_documents(data_folder="data"):
+def load_documents(data_folder="."):
     docs = []
 
     for file in os.listdir(data_folder):
