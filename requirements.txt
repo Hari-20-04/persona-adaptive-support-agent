@@ -12,3 +12,4 @@ python-dotenv
 pydantic
 numpy
 requests
+protobuf==5.29.5
